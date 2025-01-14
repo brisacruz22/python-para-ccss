@@ -7,3 +7,5 @@
 - Creación de gráficos interactivos con Matplotlib, Seaborn y Folium.
 - Visualización georreferenciada para análisis social con Geopandas.
 - Introducción al análisis descriptivo cualitativo con Python.
+
+Curso creado por Brisa Cruz y Lucía Díaz para el **Laboratorio de Inteligencia Artificial y Métodos Computacionales en Ciencias Sociales (QLAB) de la Facultad de Ciencias Sociales de la PUCP**.
